@@ -7,7 +7,7 @@ import java.util.*;
 public class Main {
 
     //I using in that example method:
-    //toList, loSet, toQueue, toDequeue
+    //toList, toSet, toQueue, toDequeue
     //There are four methods.
     //You may to put: toList2, toList3, toList4 & other collections
     //You may use method fromArrayToCollection (work for all collections, need to convert in wrapper):
