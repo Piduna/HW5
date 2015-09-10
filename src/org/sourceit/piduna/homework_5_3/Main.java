@@ -83,7 +83,7 @@ public class Main {
          TreeMap tm = new TreeMap();
 
          //you can provide any collections of map
-         //for do that, you may chane hm to lhm
+         //for do that, you may chane hm (hashmap) to lhm
          //(LinkedHashMap) or tm (TreeMap)
          Map <Integer, String> mapIntStr = toMap(hm, integer, s1);
          Map <String, String> mapStrStr = toMap(hm, s1, s2);

@@ -158,7 +158,8 @@ public class Main {
         Queue <String> sq = c.toQueue(s);
         //boolean, dequeue
         Deque <String> sd = c.toDequeue(s);
-        //Demo on collections list. Pick your own collections
+        //Demo on collections list. If you want other collection,
+        //please pick your own collections
         sl.add("Three");
         sl.add("Four");
         System.out.println("String converted into list: ");
